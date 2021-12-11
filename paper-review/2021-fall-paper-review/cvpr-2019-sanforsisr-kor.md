@@ -43,7 +43,7 @@ SENet은 channel-wise relationship 활용을 통해 이미지 분류를 진행�
 단일 convolution layer만 사용하여 shallow feature을 추출하는 단계이다.
 
 ![2_Shallowfeatureextraction](/.gitbook/assets/56/2_Shallowfeatureextraction.png)
-
+$$F_0 = H_SF(I_LR)$$
 
 
 ##### - Non-locally enhanced residual group (NLRG) based deep feature extraction
